@@ -8,6 +8,6 @@ ACCESS_TOKEN_SECRET = '6x42q2qXMQJYjNdqXKNeeRFem5cGeqLd0vd2XOvT7Twek'
 
 auth = tweepy.OAuthhandler(CONSUMER_KEY, CONSUMER_SECRET)
 
-auth.set_access_token(ACCESS-TOKEN, ACCESS_TOKEN_SECRET)
+auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 
 twitter = tweepy.API(auth)
