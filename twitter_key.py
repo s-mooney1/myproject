@@ -1,4 +1,7 @@
+import tweepy
+
 CONSUMER_KEY ='8fqVXXylXJJ1ocO77zwVHwGoF'
+
 
 CONSUMER_SECRET ='gUVOyrTtoIjkSgOM9MNOWb8vKFqQ21qxGnZG7uT4viUdnxA9yd'
 
