@@ -14,3 +14,7 @@ auth = tweepy.OAuthhandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 
 twitter = tweepy.API(auth)
+
+twiter.update_status(status = "it worked")
+
+print("done,exiting")
